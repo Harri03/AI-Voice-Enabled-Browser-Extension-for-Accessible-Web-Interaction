@@ -54,4 +54,4 @@ project-folder/
 - Improved accuracy
 
 ## Author
-Sakthivel Raj G
+Harriram A
